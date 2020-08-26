@@ -8,5 +8,7 @@ Desafio técnico web - processo seletivo da Cubos
 2. Abra o projeto em um editor de texto de sua preferência (eu utilizei o VSCode);
 
 3. Dentro do terminal, execute:
+
 3.1 - npm install (para instalar as dependências).
-3.2 - npm start (para rodar a aplicaçaõ).
+
+3.2 - npm start (para rodar a aplicação).
