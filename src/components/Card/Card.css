@@ -1,0 +1,14 @@
+.card {
+    display: flex;
+    height: 250px;
+    background-color: #f4f4f4;
+    cursor: pointer;
+}
+
+.poster {
+    width: 170px;
+}
+
+.content {
+    padding-left: 20px;
+}
