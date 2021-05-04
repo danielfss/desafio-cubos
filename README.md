@@ -1,6 +1,9 @@
 # desafio-cubos
 Desafio técnico web - processo seletivo da Cubos
 
+## Introdução
+Consumir a API https://www.themoviedb.org/ e exibir a lista de filmes utilizando React no front-end.
+
 # ORIENTAÇÕES PARA O FUNCIONAMENTO #
 1. Clonar o repositório na pasta desejada do seu computador:
 - git clone https://github.com/danielfss/desafio-cubos.git
